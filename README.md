@@ -1,3 +1,2 @@
 # hello-world
-test
-hello test test
+new version 3.0
